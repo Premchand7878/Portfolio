@@ -9,8 +9,6 @@ About Section – Highlights my background, skills, and interests.
 
 Projects – Showcases my work with descriptions and links to repositories/demos.
 
-Resume – Downloadable CV/resume option.
-
 Contact Section – Easy way to connect via email or social links.
 
 Responsive Design – Fully optimized for desktop, tablet, and mobile.
